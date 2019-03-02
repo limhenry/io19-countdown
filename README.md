@@ -19,7 +19,7 @@ Please include [lottie.js](https://github.com/airbnb/lottie-web) in your `index.
 
 ## Demo
 
-[Demo]()
+[Demo](https://limhenry.github.io/io19-countdown/)
 
 ## Credits
 

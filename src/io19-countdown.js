@@ -1,4 +1,4 @@
-import { Countdown as CountdownController } from './countdown';
+import { Countdown as CountdownController } from './countdown.js';
 
 class Io19Countdown extends HTMLElement {
     constructor() {
