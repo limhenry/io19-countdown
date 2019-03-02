@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-import { ANIMATIONS } from './data';
+import { ANIMATIONS } from './data.js';
 
 const FRAME_RANGES = {
     nine: {
