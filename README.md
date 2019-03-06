@@ -24,3 +24,7 @@ Please include [lottie.js](https://github.com/airbnb/lottie-web) in your `index.
 ## Credits
 
 Original source: https://events.google.com/io/
+
+## Related
+
+I/O 2019 SVG: https://github.com/limhenry/io19-svg
